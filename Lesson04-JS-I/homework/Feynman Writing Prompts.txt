@@ -1,0 +1,31 @@
+VARIABLES:
+A variable is a container for values. You can put a number, letter, word, etc. into it to hold onto,
+and then take it back out whenever you need that number/word/etc. again, or replace it with another
+one at any time.
+
+STRINGS:
+A string is text. It can be as short as one letter, or as long as many paragraphs. The computer 
+treats strings like lists of letters in a particular order, like letter blocks placed next to each
+other in a line to spell out words and sentences.
+
+FUNCTIONS:
+A function is a specific set of instructions for the computer that you will need to repeat to it
+more than once. For example, you can create a "makeSandwich" function that has detailed instructions
+on how to make a sandwich, and then whenever you need the computer to make a sandwich you can just
+tell it to "makeSandwich" instead of repeating all of the step-by-step instructions.
+Arguments are bits of information you give a function to work with. In a "makeSandwich" function you
+might send the function some arguments telling it what ingredients you want it to use.
+Return is how you tell the function to give something to you when it's done following its 
+instrucitons. When the computer is done following the instructions in the "makeSandwich" function,
+you need to tell it to give you the sandwich it made, or else the computer will just get rid of it.
+
+IF STATEMENTS:
+An "if" statement is a set of instructions that you only want the computer to follow sometimes. For
+example, I could tell the computer "if there are enough ingredients, make a sandwich". If there are
+enough ingredients to make a sandwich, the computer could then run the makeSandwich instructions. If
+there are not enough ingredients, the computer will move on without doing anything.
+
+BOOLEANS
+A boolean is a value of "true" or "false". The computer considers these to be a special type of
+value rather than just words. You can use these to tell the computer if certain conditions are true
+or false.
