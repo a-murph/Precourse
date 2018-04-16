@@ -1,0 +1,13 @@
+FOR
+A "for" loop is a set of instructions that you want the computer to run a certain number of times.
+You usually create a counter that counts up every time you go through the for loop, and then tell the
+computer to stop repeating through the loo when the counter reaches a certain number.
+
+&&, ||, !
+"&&" means "and". It is used for when you want the computer to check if two different conditions are
+both true.
+"||" means "or". It is used for when you want the computer to check if at least one of a group of
+conditions is true.
+"!" means "not". It is used to reverse trues and falses. If you put an ! before something with a
+value of true, it will be considered false, and if you put it before a false value it will be
+condsidered true.
