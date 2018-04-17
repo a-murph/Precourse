@@ -1,0 +1,5 @@
+ARRAYS:
+An array is an ordered list of values. Putting values (numbers, letters, strings, true/falses) into
+an array is like stacking them on top of each other in a box to save for later. They are all in one
+place and they are all in a particular order that you know. You can then use your knowledge of the
+order the values are in to look at or take out or change any particular one.
