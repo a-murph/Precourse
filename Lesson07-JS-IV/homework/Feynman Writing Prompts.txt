@@ -1,0 +1,24 @@
+OBJECTS, PROPERTIES, METHODS:
+An object in code is like an object in real life. Consider a die. It has properties such as color,
+size, and number of sides. It also has "methods", or actions you can perform with it, such as rolling
+the die or setting it to a particular number. An object in code is similar: it has properties, which
+hold values and act similarly to basic variables, and methods, which are actions it can perform
+similar to functions. A "die" object might have properties and values such as color:"green",
+size:"1" (meaning one inch in each dimension), sides:"20", and it might have methods such as roll()
+and set(). These properties and methods can be called by saying something like die.color or
+die.roll().
+
+FOR-IN LOOP:
+A "for-in loop" goes over every property in an object and then does something with each one. For
+example, if we were to make a for-in loop that counted every property in our die object, it would
+count one for the color property, one for the size property, and one for the sides property,
+resulting in a count of 3.
+
+DOT VS BRACKET NOTATION:
+"dot notation" and "bracket notation" are two different ways of referencing properties of objects.
+Dot notation looks like: object.property and bracket notation looks like: object["property"]. The
+main difference between these two methods is that dot notation cannot be used to call a property
+whose name is stored in a variable. For example, if I had a variable x that had the value of
+"property", I can't call on the property by using object.x, because the computer thinks I'm looking
+for a proerty of object with the name "x". To do this correctly I must say object[x] so that the
+computer knows I'm referring to the value stored within the variable x.
