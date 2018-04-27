@@ -1,0 +1,12 @@
+CONSTRUCTORS:
+A constructor is a function that contains a set of instrctions for creating a certain kind of object.
+For example, you might want to have a "person" object with properties such as hairColor, eyeColor,
+height, and weight. But you will want to create more than one different "person" with different
+values for all of those properties. So you would create a "person constructor", and then use it to
+create different persons that are saved to different variables with different names.
+
+PROTOTYPES:
+An object's "prototype" is the blueprint for creating that kind of object. When you make a new
+object, it "inherits" all of the properties and methods of its prototype. If you want to add a
+property or method to every object of a particular type, you can add it to the prototype of those
+objects, and they will all inherit the new properties or methods.
